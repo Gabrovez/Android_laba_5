@@ -17,14 +17,7 @@
 - Код разбит на отдельные @Composable функции для лучшей структуры и переиспользования
 
 ## Скриншот результата
-
-![Screenshot](SC.png)
-
-## Технологии
-- Kotlin
-- Jetpack Compose
-- Material Design 3
-- ARGB color model
+![Screenshot](app/src/main/res/drawable/SC.png)
 
 ## Минимальные требования
 - Android API 25 и выше
